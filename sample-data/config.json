@@ -1,0 +1,6 @@
+{
+    "method": "static_tw",
+    "threshold": 1.0,
+    "data_format": {"vars_files": ["tair", "tdew", "dem"]},
+    "refl_masked": "False"
+}

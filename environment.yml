@@ -1,0 +1,8 @@
+name: pypros-examples
+dependencies:
+  - numpy
+  - gdal
+  - matplotlib
+  - pip
+  - pip:
+    - pypros
