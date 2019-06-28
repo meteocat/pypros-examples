@@ -1,8 +1,9 @@
-name: pypros-examples
+name: prosexamples
+channels:
+  - defaults
+  - meteocat
 dependencies:
   - numpy
   - gdal
   - matplotlib
-  - pip
-  - pip:
-    - pypros
+  - pypros
