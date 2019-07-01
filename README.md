@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meteocat/pypros-examples/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meteocat/pypros-examples/master?urlpath=/lab/tree/index.ipynb)
 
 
 [![Logo](https://github.com/meteocat/pypros-examples/blob/master/docs/source/_static/logo_pros_small.png)](#)
